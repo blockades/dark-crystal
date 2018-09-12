@@ -2,8 +2,8 @@
 Back up your secrets using the trust in your social network.
 
 ## Code
-[patchbay-dark-crystal](https://github.com/blockades/patchbay-dark-crystal] - A patchbay interface for Patchbay built with reactive JS framework [mutant](https://github.com/mmckegg/mutant).
-[scuttle-dark-crystal](https://github.com/blockades/scuttle-dark-crystal] - API for validating, building, publishing and reading Dark Crystal records
+[patchbay-dark-crystal](https://github.com/blockades/patchbay-dark-crystal) - A patchbay interface for Patchbay built with reactive JS framework [mutant](https://github.com/mmckegg/mutant).
+[scuttle-dark-crystal](https://github.com/blockades/scuttle-dark-crystal) - API for validating, building, publishing and reading Dark Crystal records
 [ssb-dark-crystal-schema](https://github.com/blockades/ssb-dark-crystal-schema) - JSON schemas and validation for secure scuttlebutt message types
 
 ## What is Dark Crystal?
