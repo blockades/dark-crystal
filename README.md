@@ -26,3 +26,5 @@ With decentralised and encrypted tools, there's no company or authority who can 
 Dark Crystal is built on the Secure Scuttlebutt protocol. Find out more here: www.scuttlebutt.nz
 
 > "In P2P spaces, your friends are the data center. Data get wiped? Resync it from your friends. Lose your private key? Piece together the shards from your friends. That radical interdependence with real people that we trust can remove our dependency on corporate cloud providers. This feels important; an undoing of decades of capitalist efforts to isolate us and separate us from each other. P2P technology can help people reconnect with each other on a human beings level." @noffle
+
+![screencast](img/screencast.gif)
