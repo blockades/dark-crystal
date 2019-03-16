@@ -1,36 +1,43 @@
-<div class="center">
-  ![icon_200x200.png](./img/icon_200x200.png)
+<div align="center">
+  <img src="./img/icon_200x200.png" alt="dark-crystal-icon" width="200" height="200" style="padding-bottom: 0.5em;" />
 </div>
 
-# Dark Crystal
-Back up your secrets using the trust in your social network.
-
+<div align="center">
+  <h1>Dark Crystal</h1>
+  Back up your secrets using the trust in your social network.
+</div>
 
 ## Code
 
 ### Standalone Client
 A patchcore application built with Electron and Mutant.
-[dark-crystal-standalone](https://github.com/blockades/dark-crystal-standalone)
+
+* [dark-crystal-standalone](https://github.com/blockades/dark-crystal-standalone)
 
 ### Patchbay Interface Plugin 
 A patchbay interface for Patchbay built with reactive JS framework [mutant](https://github.com/mmckegg/mutant).
-[patchbay-dark-crystal](https://github.com/blockades/patchbay-dark-crystal)
+
+* [patchbay-dark-crystal](https://github.com/blockades/patchbay-dark-crystal)
 
 ### Scuttlebutt API
 Our API for validating, building, publishing and reading Dark Crystal records in Scuttlebutt
-[scuttle-dark-crystal](https://github.com/blockades/scuttle-dark-crystal)
+
+* [scuttle-dark-crystal](https://github.com/blockades/scuttle-dark-crystal)
 
 ### HTTP JSON API 
 A HTTP/S JSON API to access our wrapper around Shamir's Secret Shares. Deployed at [https://api.darkcrystal.pw](https://api.darkcrystal.pw).
-[dark-crystal-secrets-api](https://github.com/blockades/dark-crystal-secrets-api)
+
+* [dark-crystal-secrets-api](https://github.com/blockades/dark-crystal-secrets-api)
 
 ### Cryptography
 Our extension of Shamir's Secret Shares
-[dark-crystal-secrets](https://github.com/blockades/dark-crystal-secrets)
+
+* [dark-crystal-secrets](https://github.com/blockades/dark-crystal-secrets)
 
 ### Schemas / Models
 JSON schemas and validation for secure scuttlebutt message types
-[ssb-dark-crystal-schema](https://github.com/blockades/ssb-dark-crystal-schema) - 
+
+* [ssb-dark-crystal-schema](https://github.com/blockades/ssb-dark-crystal-schema) - 
 
 ## What is Dark Crystal?
 
