@@ -1,10 +1,36 @@
+<div class="center">
+  ![icon_200x200.png](./img/icon_200x200.png)
+</div>
+
 # Dark Crystal
 Back up your secrets using the trust in your social network.
 
+
 ## Code
-* [patchbay-dark-crystal](https://github.com/blockades/patchbay-dark-crystal) - A patchbay interface for Patchbay built with reactive JS framework [mutant](https://github.com/mmckegg/mutant).
-* [scuttle-dark-crystal](https://github.com/blockades/scuttle-dark-crystal) - API for validating, building, publishing and reading Dark Crystal records
-* [ssb-dark-crystal-schema](https://github.com/blockades/ssb-dark-crystal-schema) - JSON schemas and validation for secure scuttlebutt message types
+
+### Standalone Client
+A patchcore application built with Electron and Mutant.
+[dark-crystal-standalone](https://github.com/blockades/dark-crystal-standalone)
+
+### Patchbay Interface Plugin 
+A patchbay interface for Patchbay built with reactive JS framework [mutant](https://github.com/mmckegg/mutant).
+[patchbay-dark-crystal](https://github.com/blockades/patchbay-dark-crystal)
+
+### Scuttlebutt API
+Our API for validating, building, publishing and reading Dark Crystal records in Scuttlebutt
+[scuttle-dark-crystal](https://github.com/blockades/scuttle-dark-crystal)
+
+### HTTP JSON API 
+A HTTP/S JSON API to access our wrapper around Shamir's Secret Shares. Deployed at [https://api.darkcrystal.pw](https://api.darkcrystal.pw).
+[dark-crystal-secrets-api](https://github.com/blockades/dark-crystal-secrets-api)
+
+### Cryptography
+Our extension of Shamir's Secret Shares
+[dark-crystal-secrets](https://github.com/blockades/dark-crystal-secrets)
+
+### Schemas / Models
+JSON schemas and validation for secure scuttlebutt message types
+[ssb-dark-crystal-schema](https://github.com/blockades/ssb-dark-crystal-schema) - 
 
 ## What is Dark Crystal?
 
